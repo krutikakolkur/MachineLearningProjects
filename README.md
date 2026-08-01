@@ -1,4 +1,4 @@
-# FUTURE INTERN PROJECTS
+# INTERNSHIP PROJECTS
 
 Practical machine learning portfolio with projects in sales forecasting, NLP ticket classification, and resume screening.
 
